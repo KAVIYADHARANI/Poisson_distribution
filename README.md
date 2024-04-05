@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+# DEVELOPED BY : KAVIYA D
+# REGISTER NUMBER : 212223040089
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
