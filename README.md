@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 2
 # Fitting Poisson  distribution
 # DEVELOPED BY : KAVIYA D
 # REGISTER NUMBER : 212223040089
